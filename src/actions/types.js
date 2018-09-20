@@ -1,0 +1,1 @@
+export const FETCH_DELIVERY = 'FETCH_DELIVERY';
